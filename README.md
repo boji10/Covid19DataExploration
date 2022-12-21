@@ -1,8 +1,7 @@
-# Covid19DataExploration
+#Analysis of Covid Deaths and Vaccinations
 
-Imported the Covid Deaths and Vaccinations tables with the correct data type for each column.
-Processed data using aggregate functions, joins, and CTEs, and created views in SQL
 
---Data sources used:
-  
-  ・The dataset used for this analysis is: https://ourworldindata.org/covid-deaths
+In this project, I imported the Covid Deaths and Vaccinations tables and processed the data using aggregate functions, joins, and CTEs. I also created views in SQL to make the data easier to analyze.
+
+Data sources
+The dataset used for this analysis is: https://ourworldindata.org/covid-deaths
